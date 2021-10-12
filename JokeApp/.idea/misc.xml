@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_iconmonstr_smiley_1.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.38358974358974357" />
+        <entry key="app/src/main/res/layout/activity_about.xml" value="0.20989583333333334" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>

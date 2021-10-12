@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bf40488-4933-4c21-94c9-e01020e3911f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JokeApp/app/src/main/res/font/roboto.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JokeApp/app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JokeApp/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JokeApp/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JokeApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JokeApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JokeApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JokeApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JokeApp/app/src/main/java/com/example/jokeapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../JokeApp/app/src/main/java/com/example/jokeapp/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JokeApp/app/src/main/java/com/example/jokeapp/jokeBook.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../JokeApp/app/src/main/java/com/example/jokeapp/JokeBook.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JokeApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JokeApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JokeApp/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JokeApp/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -3,6 +3,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <data>
+        <variable
+            name="joke"
+            type="com.example.jokeapp.JokeBook" />
+    </data>
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="728dp"
@@ -25,22 +31,19 @@
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_chainStyle="packed" />
+            app:layout_constraintVertical_chainStyle="packed"
+            android:contentDescription="@string/smiling_image" />
 
         <TextView
             android:id="@+id/joke_textview"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginStart="16dp"
-            android:layout_marginEnd="16dp"
-            android:layout_marginBottom="16dp"
-            android:text="@string/here_comes_a_joke"
-            android:textSize="20sp"
+            android:text="@{joke.currentJoke}"
             app:layout_constraintBottom_toTopOf="@+id/nextJoke_button"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/smiley_imageview" />
+            app:layout_constraintTop_toBottomOf="@+id/smiley_imageview"
+            style="@style/default_roboto_font" />
 
         <Button
             android:id="@+id/nextJoke_button"
