@@ -5,40 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bf40488-4933-4c21-94c9-e01020e3911f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AboutMe/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/androidTest/java/com/example/aboutme/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/java/com/example/aboutme/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/app/src/test/java/com/example/aboutme/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutMe/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/AboutMe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JokeApp/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../JokeApp/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JokeApp/app/src/main/java/com/example/jokeapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../JokeApp/app/src/main/java/com/example/jokeapp/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JokeApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JokeApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
