@@ -24,12 +24,15 @@ class MainActivity : AppCompatActivity() {
         var navView : NavigationView = findViewById(R.id.navView)
         //or use binding!
 
+        Timber.i("MainActivity is created")
+
+
         val navController = this.findNavController(R.id.navHostFragment)
         NavigationUI.setupActionBarWithNavController(this, navController, drawerLayout)
 
         appBarConfiguration = AppBarConfiguration(navController.graph, drawerLayout)
         NavigationUI.setupWithNavController(navView, navController)
-        Timber.i("Hi from the oncreate")
+
     }
 
     override fun onSupportNavigateUp(): Boolean {
