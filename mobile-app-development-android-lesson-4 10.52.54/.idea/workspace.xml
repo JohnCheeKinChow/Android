@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="490ed861-4f22-4ed3-acfd-f0ee4d80666a" name="Default Changelist" comment="" />
+    <list default="true" id="490ed861-4f22-4ed3-acfd-f0ee4d80666a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../andfun-kotlin-guess-it-starter-code/app/src/main/java/com/example/android/guesstheword/screens/game/GameViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mobile-app-development-android-lesson-4 10.52.54.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mobile-app-development-android-lesson-4 10.52.54.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,5 +50,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
