@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="andfun-kotlin-android-trivia-master/app/src/main/res/layout/activity_main.xml" value="0.18161094224924013" />
+        <entry key="andfun-kotlin-android-trivia-master/app/src/main/res/layout/fragment_about.xml" value="0.18161094224924013" />
+        <entry key="andfun-kotlin-android-trivia-master/app/src/main/res/layout/fragment_game.xml" value="0.18161094224924013" />
+        <entry key="andfun-kotlin-android-trivia-master/app/src/main/res/layout/nav_header.xml" value="0.18161094224924013" />
+        <entry key="andfun-kotlin-android-trivia-master/app/src/main/res/menu/navdrawer_menu.xml" value="0.33611111111111114" />
+      </map>
+    </option>
+  </component>
+</project>
