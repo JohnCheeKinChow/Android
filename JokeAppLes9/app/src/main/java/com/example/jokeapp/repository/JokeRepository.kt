@@ -61,9 +61,4 @@ class JokeRepository(private val database: JokeDatabase) {
         //the returned joke can be used to pass as save arg to the next fragment (e.g)
         return newJoke
     }
-
-
-
-
-
 }

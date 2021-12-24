@@ -46,9 +46,11 @@ fun ApiJokeContainer.asDomainModel(): List<Joke>{
 * */
 fun ApiJokeContainer.asDatabaseModel(): Array<DatabaseJoke>{
     return apiJokes.map{
-        DatabaseJoke(jokeSetup = it.jokeSetup,
+        DatabaseJoke(
+            jokeSetup = it.jokeSetup,
             jokeType = it.jokeType,
-            punchline = it.punchline)
+            punchline = it.punchline
+        )
     }.toTypedArray()
 }
 
